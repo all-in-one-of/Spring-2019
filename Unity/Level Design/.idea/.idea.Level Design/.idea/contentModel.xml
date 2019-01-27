@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\genar\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Level Design.127763132.00" t="ExcludeRecursive" />
+    <e p="D:\GIT\Spring 2019\Unity\Level Design" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_MK" t="Include">
+          <e p="MKToonFree" t="Include">
+            <e p="Editor" t="Include">
+              <e p="MKToonFreeEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="Inc" t="Include">
+                <e p="Common" t="Include">
+                  <e p="MKToonDef.cginc" t="Include" />
+                  <e p="MKToonInc.cginc" t="Include" />
+                  <e p="MKToonLight.cginc" t="Include" />
+                  <e p="MKToonV.cginc" t="Include" />
+                </e>
+                <e p="Forward" t="Include">
+                  <e p="MKToonForward.cginc" t="Include" />
+                  <e p="MKToonForwardAddSetup.cginc" t="Include" />
+                  <e p="MKToonForwardBaseSetup.cginc" t="Include" />
+                  <e p="MKToonForwardIO.cginc" t="Include" />
+                </e>
+                <e p="Outline" t="Include">
+                  <e p="MKToonOutlineOnlyBase.cginc" t="Include" />
+                  <e p="MKToonOutlineOnlyIO.cginc" t="Include" />
+                  <e p="MKToonOutlineOnlySetup.cginc" t="Include" />
+                </e>
+                <e p="ShadowCaster" t="Include">
+                  <e p="MKToonShadowCaster.cginc" t="Include" />
+                  <e p="MKToonShadowCasterIO.cginc" t="Include" />
+                  <e p="MKToonShadowCasterSetup.cginc" t="Include" />
+                </e>
+                <e p="Surface" t="Include">
+                  <e p="MKToonSurface.cginc" t="Include" />
+                  <e p="MKToonSurfaceIO.cginc" t="Include" />
+                </e>
+              </e>
+              <e p="MKToonFree.shader" t="Include" />
+              <e p="MKToonFreeMobile.shader" t="Include" />
+              <e p="MKToonFreeOutlineOnly.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="JMO Assets" t="Include">
+          <e p="MatCap Shaders" t="Include">
+            <e p="_MatCap Shaders Readme.txt" t="Include" />
+            <e p="Demo" t="Include">
+              <e p="Assets" t="Include">
+                <e p="MC_AutoRotate.cs" t="Include" />
+                <e p="MC_SwitchTexture.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="MatCap_Lit.shader" t="Include" />
+              <e p="MatCap_Plain.shader" t="Include" />
+              <e p="MatCap_Plain_Additive.shader" t="Include" />
+              <e p="MatCap_Plain_AdditiveZ.shader" t="Include" />
+              <e p="MatCap_Plain_Bumped.shader" t="Include" />
+              <e p="MatCap_TextureAdd.shader" t="Include" />
+              <e p="MatCap_TextureAdd_Bumped.shader" t="Include" />
+              <e p="MatCap_TextureMult.shader" t="Include" />
+              <e p="MatCap_TextureMult_Bumped.shader" t="Include" />
+            </e>
+            <e p="Textures" t="Include">
+              <e p="BenSimonds" t="Include">
+                <e p="_Textures Readme.txt" t="Include" />
+              </e>
+              <e p="MaCrea" t="Include">
+                <e p="MaCrea.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Toon.shader" t="Include" />
+      </e>
+      <e p="Level Design.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
