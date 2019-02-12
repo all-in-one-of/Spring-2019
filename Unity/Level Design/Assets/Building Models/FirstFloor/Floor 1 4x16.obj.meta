@@ -7,22 +7,37 @@ ModelImporter:
     100002: default
     100004: //RootNode
     100006: wood_Parts
+    100008: wall
+    100010: window
+    100012: wood
     400000: buildingWalls
     400002: default
     400004: //RootNode
     400006: wood_Parts
+    400008: wall
+    400010: window
+    400012: wood
     2100000: buildingWallsMat
     2100002: defaultMat
     2100004: wood_PartsMat
     2300000: buildingWalls
     2300002: default
     2300004: wood_Parts
+    2300006: wall
+    2300008: window
+    2300010: wood
     3300000: buildingWalls
     3300002: default
     3300004: wood_Parts
+    3300006: wall
+    3300008: window
+    3300010: wood
     4300000: buildingWalls
     4300002: default
     4300004: wood_Parts
+    4300006: wall
+    4300008: window
+    4300010: wood
   externalObjects: {}
   materials:
     importMaterials: 0

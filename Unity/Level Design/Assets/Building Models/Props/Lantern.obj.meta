@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: fbec7a7312c6a8a4eb97b77c75a28374
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube2
+    100004: pCube2_polySurface1
+    100006: polySurface2_pCube2
+    100008: handle
+    100010: lantern
+    100012: handle_Lantern
+    100014: Lantern_lantern
+    100016: Lantern_handle
+    100018: lantern_Lantern
+    400000: //RootNode
+    400002: pCube2
+    400004: pCube2_polySurface1
+    400006: polySurface2_pCube2
+    400008: handle
+    400010: lantern
+    400012: handle_Lantern
+    400014: Lantern_lantern
+    400016: Lantern_handle
+    400018: lantern_Lantern
+    2100000: initialShadingGroup
+    2300000: pCube2
+    2300002: pCube2_polySurface1
+    2300004: polySurface2_pCube2
+    2300006: handle
+    2300008: lantern
+    2300010: handle_Lantern
+    2300012: Lantern_lantern
+    2300014: Lantern_handle
+    2300016: lantern_Lantern
+    3300000: pCube2
+    3300002: pCube2_polySurface1
+    3300004: polySurface2_pCube2
+    3300006: handle
+    3300008: lantern
+    3300010: handle_Lantern
+    3300012: Lantern_lantern
+    3300014: Lantern_handle
+    3300016: lantern_Lantern
+    4300000: pCube2
+    4300002: pCube2_polySurface1
+    4300004: polySurface2_pCube2
+    4300006: handle
+    4300008: lantern
+    4300010: handle_Lantern
+    4300012: Lantern_lantern
+    4300014: Lantern_handle
+    4300016: lantern_Lantern
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

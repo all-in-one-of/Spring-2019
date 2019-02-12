@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3418600800177363549
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_Name
+      value: Lantern Post No Lantern
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 64.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.097254
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -19.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 891146df3f6eb4c4ea9be803fa2dfd0e, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 61171aff45459494db6ffe7cd56ac9aa, type: 3}
+--- !u!4 &3418600800177750237 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 61171aff45459494db6ffe7cd56ac9aa,
+    type: 3}
+  m_PrefabInstance: {fileID: 3418600800177363549}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7545559975683661705
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3418600800177750237}
+    m_Modifications:
+    - target: {fileID: 142037765712924775, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_Name
+      value: Rope Bundle
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.548
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4685615
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.93414
+      objectReference: {fileID: 0}
+    - target: {fileID: 142037765713153095, guid: 5e90c5bd6538c884f8cdc3c6dce7d305,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.93414
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e90c5bd6538c884f8cdc3c6dce7d305, type: 3}

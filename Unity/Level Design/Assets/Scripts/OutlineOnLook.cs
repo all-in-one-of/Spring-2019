@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using genaralskar.FPSInteract;
+
 [RequireComponent(typeof(Outline))]
 public class OutlineOnLook : MonoBehaviour, IFPSLookAt
 {

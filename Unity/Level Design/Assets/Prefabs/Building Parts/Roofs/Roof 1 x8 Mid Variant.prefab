@@ -9,7 +9,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: ebeb6d9d1a3e7604cac1532a4a693250, type: 3}
       propertyPath: m_Name
-      value: Roof 1 x8 Mid
+      value: Roof 1 x8 Mid Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ebeb6d9d1a3e7604cac1532a4a693250, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: ebeb6d9d1a3e7604cac1532a4a693250, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: ebeb6d9d1a3e7604cac1532a4a693250, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ebeb6d9d1a3e7604cac1532a4a693250, type: 3}
       propertyPath: m_LocalPosition.x
