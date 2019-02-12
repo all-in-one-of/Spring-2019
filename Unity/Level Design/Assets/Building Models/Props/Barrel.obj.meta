@@ -1,46 +1,19 @@
 fileFormatVersion: 2
-guid: c37fad09c3350764082e1ceae8fd075f
+guid: f6de02a2864e9654f81e3c4dfc17f46e
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: buildingWalls
-    100002: default
-    100004: //RootNode
-    100006: wood_Parts
-    100008: walls
-    100010: windows
-    100012: wood
-    400000: buildingWalls
-    400002: default
-    400004: //RootNode
-    400006: wood_Parts
-    400008: walls
-    400010: windows
-    400012: wood
-    2100000: buildingWallsMat
-    2100002: defaultMat
-    2100004: wood_PartsMat
-    2300000: buildingWalls
-    2300002: default
-    2300004: wood_Parts
-    2300006: walls
-    2300008: windows
-    2300010: wood
-    3300000: buildingWalls
-    3300002: default
-    3300004: wood_Parts
-    3300006: walls
-    3300008: windows
-    3300010: wood
-    4300000: buildingWalls
-    4300002: default
-    4300004: wood_Parts
-    4300006: walls
-    4300008: windows
-    4300010: wood
+    100000: //RootNode
+    100002: barrel
+    400000: //RootNode
+    400002: barrel
+    2100000: initialShadingGroup
+    2300000: barrel
+    3300000: barrel
+    4300000: barrel
   externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -75,10 +48,10 @@ ModelImporter:
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -100,7 +73,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
