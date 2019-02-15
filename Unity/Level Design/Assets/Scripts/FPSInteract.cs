@@ -12,6 +12,7 @@ namespace genaralskar.FPSInteract
         public float interactDistance = 2;
         public string interactInput = "Interact";
         public LayerMask layerMask;
+        public GameObject player;
     
         private RaycastHit hit;
         private Collider currentCollider;
@@ -58,7 +59,7 @@ namespace genaralskar.FPSInteract
             var interacts = currentCollider.gameObject.GetComponents<IFPSInteract>();
             foreach (var interact in interacts)
             {
-                interact?.OnInteract();
+                interact?.OnInteract(player, hit);
             }
         }
     
@@ -85,7 +86,7 @@ namespace genaralskar.FPSInteract
     
     public interface IFPSInteract
     {
-        void OnInteract();
+        void OnInteract(GameObject player, RaycastHit hit);
     }
     
     public interface IFPSLookAt

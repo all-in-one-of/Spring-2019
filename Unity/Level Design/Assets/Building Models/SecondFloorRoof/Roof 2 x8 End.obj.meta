@@ -7,22 +7,37 @@ ModelImporter:
     100002: roofBits
     100004: wallBits
     100006: woodBits
+    100008: Roof_2_x8_End:wallBits_Roof_2_x8_Mid:group2
+    100010: Roof_2_x8_Mid:group2_Roof_2_x8_End:roofBits
+    100012: Roof_2_x8_Mid:group2_Roof_2_x8_End:woodBits
     400000: //RootNode
     400002: roofBits
     400004: wallBits
     400006: woodBits
+    400008: Roof_2_x8_End:wallBits_Roof_2_x8_Mid:group2
+    400010: Roof_2_x8_Mid:group2_Roof_2_x8_End:roofBits
+    400012: Roof_2_x8_Mid:group2_Roof_2_x8_End:woodBits
     2100000: roofBitsMat
     2100002: wallBitsMat
     2100004: woodBitsMat
     2300000: roofBits
     2300002: wallBits
     2300004: woodBits
+    2300006: Roof_2_x8_End:wallBits_Roof_2_x8_Mid:group2
+    2300008: Roof_2_x8_Mid:group2_Roof_2_x8_End:roofBits
+    2300010: Roof_2_x8_Mid:group2_Roof_2_x8_End:woodBits
     3300000: roofBits
     3300002: wallBits
     3300004: woodBits
+    3300006: Roof_2_x8_End:wallBits_Roof_2_x8_Mid:group2
+    3300008: Roof_2_x8_Mid:group2_Roof_2_x8_End:roofBits
+    3300010: Roof_2_x8_Mid:group2_Roof_2_x8_End:woodBits
     4300000: roofBits
     4300002: wallBits
     4300004: woodBits
+    4300006: Roof_2_x8_End:wallBits_Roof_2_x8_Mid:group2
+    4300008: Roof_2_x8_Mid:group2_Roof_2_x8_End:roofBits
+    4300010: Roof_2_x8_Mid:group2_Roof_2_x8_End:woodBits
   externalObjects: {}
   materials:
     importMaterials: 0
