@@ -5,7 +5,7 @@ using genaralskar.FPSInteract;
 
 public class ItemPickup : MonoBehaviour, IFPSInteract
 {
-    public void OnInteract(GameObject player, RaycastHit hit)
+    public void OnInteract(GameObject playerCamera, RaycastHit hit)
     {
         if (Input.GetButtonDown("Interact"))
         {

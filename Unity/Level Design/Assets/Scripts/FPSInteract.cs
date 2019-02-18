@@ -1,7 +1,9 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.Video;
 
 namespace genaralskar.FPSInteract
@@ -12,12 +14,17 @@ namespace genaralskar.FPSInteract
         public float interactDistance = 2;
         public string interactInput = "Interact";
         public LayerMask layerMask;
-        public GameObject player;
+        public GameObject playerCamera;
     
         private RaycastHit hit;
         private Collider currentCollider;
         private Ray ray;
-        
+
+        public CharacterController rb;
+
+        public static UnityAction StartLookingAt;
+        public static UnityAction StopLookingAt;
+
         void Update()
         {
             ray = new Ray(transform.position, transform.forward);
@@ -51,42 +58,50 @@ namespace genaralskar.FPSInteract
                 SendStopLook();
                 currentCollider = null;
             }
+            
+//            print(rb.velocity);
         }
     
         private void SendInteract(RaycastHit hit)
         {
             //Gets all IFPSInterat interfaces on the collided gameObject and sends out a call
             var interacts = currentCollider.gameObject.GetComponents<IFPSInteract>();
+            if (interacts == null) return;
             foreach (var interact in interacts)
             {
-                interact?.OnInteract(player, hit);
+                interact?.OnInteract(playerCamera, hit);
             }
         }
     
         private void SendLookAt(RaycastHit hit)
         {
             var interacts = currentCollider.gameObject.GetComponents<IFPSLookAt>();
+//            print(currentCollider);
+            if (interacts == null) return;
             foreach (var interact in interacts)
             {
                 interact?.OnLook();
             }
+            
+            StartLookingAt?.Invoke();
         }
     
         private void SendStopLook()
         {
             var interacts = currentCollider.gameObject.GetComponents<IFPSLookAt>();
+            if (interacts == null) return;
+            foreach (var interact in interacts)
             {
-                foreach (var interact in interacts)
-                {
-                    interact?.OnStopLook();
-                }
+                interact?.OnStopLook();
             }
+            
+            StopLookingAt?.Invoke();
         }
     }
     
     public interface IFPSInteract
     {
-        void OnInteract(GameObject player, RaycastHit hit);
+        void OnInteract(GameObject playerCamera, RaycastHit hit);
     }
     
     public interface IFPSLookAt

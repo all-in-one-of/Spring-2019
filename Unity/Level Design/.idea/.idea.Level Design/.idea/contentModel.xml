@@ -59,6 +59,7 @@
           </e>
         </e>
         <e p="FPSPickup.cs" t="Include" />
+        <e p="GlowIfLookingAt.cs" t="Include" />
         <e p="JMO Assets" t="Include">
           <e p="MatCap Shaders" t="Include">
             <e p="_MatCap Shaders Readme.txt" t="Include" />

@@ -11,6 +11,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Roof 2 x4 Mid Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: fe7db1fe7ac0beb479dfbfde907e86e3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fe7db1fe7ac0beb479dfbfde907e86e3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0
@@ -63,5 +67,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 36465610480d64c4894cc319c7c29c13, type: 2}
+    - target: {fileID: 100006, guid: fe7db1fe7ac0beb479dfbfde907e86e3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: fe7db1fe7ac0beb479dfbfde907e86e3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300004, guid: fe7db1fe7ac0beb479dfbfde907e86e3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 18b3d7e0291a37643b8c8714d157618c, type: 2}
+    - target: {fileID: 2300006, guid: fe7db1fe7ac0beb479dfbfde907e86e3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 937d8527bf07ca34d8478cc3adc04bd5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fe7db1fe7ac0beb479dfbfde907e86e3, type: 3}
