@@ -48,6 +48,7 @@
             </e>
           </e>
         </e>
+        <e p="CheckInventory.cs" t="Include" />
         <e p="Ciconia Studio" t="Include">
           <e p="Shaders" t="Include">
             <e p="Double Sided Shaders" t="Include">
@@ -58,7 +59,11 @@
             </e>
           </e>
         </e>
+        <e p="FollowObj.cs" t="Include" />
+        <e p="FPSAddItem.cs" t="Include" />
+        <e p="FPSGameEvent.cs" t="Include" />
         <e p="FPSPickup.cs" t="Include" />
+        <e p="FPSPlayAnimation.cs" t="Include" />
         <e p="GlowIfLookingAt.cs" t="Include" />
         <e p="JMO Assets" t="Include">
           <e p="MatCap Shaders" t="Include">
@@ -132,6 +137,7 @@
             <e p="PlayerInfo.cs" t="Include" />
           </e>
           <e p="FPSInteract.cs" t="Include" />
+          <e p="Inventory.cs" t="Include" />
           <e p="ItemPickup.cs" t="Include" />
           <e p="OutlineOnLook.cs" t="Include" />
           <e p="OutlineShader.shader" t="Include" />

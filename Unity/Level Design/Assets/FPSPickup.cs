@@ -52,10 +52,10 @@ public class FPSPickup : MonoBehaviour, IFPSInteract
     private IEnumerator BreakIt()
     {
         yield return new WaitForEndOfFrame();
-        print("started it!");
+//        print("started it!");
         
         yield return new WaitUntil(() => Input.GetButtonDown("Interact"));
-        print("doin it!");
+//        print("doin it!");
         BreakJoint();
     }
 }
