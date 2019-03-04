@@ -120,11 +120,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1511244989}
     m_Modifications:
-    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
-        type: 3}
-      propertyPath: m_Name
-      value: 4x4 Plane Variant (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 8686185450458740049, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -190,6 +185,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.99999976
       objectReference: {fileID: 0}
+    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
+        type: 3}
+      propertyPath: m_Name
+      value: 4x4 Plane Variant (1)
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08f244f63e6c90d4ea0fb07f2c3c590c, type: 3}
 --- !u!4 &873867 stripped
@@ -205,11 +205,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 216816841}
     m_Modifications:
-    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
-        type: 3}
-      propertyPath: m_Name
-      value: 4x4 Plane Variant
-      objectReference: {fileID: 0}
     - target: {fileID: 8686185450458740049, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -264,6 +259,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
+        type: 3}
+      propertyPath: m_Name
+      value: 4x4 Plane Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08f244f63e6c90d4ea0fb07f2c3c590c, type: 3}
@@ -12187,11 +12187,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 216816841}
     m_Modifications:
-    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
-        type: 3}
-      propertyPath: m_Name
-      value: 4x4 Plane Variant (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 8686185450458740049, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12246,6 +12241,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
+        type: 3}
+      propertyPath: m_Name
+      value: 4x4 Plane Variant (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08f244f63e6c90d4ea0fb07f2c3c590c, type: 3}
@@ -17631,7 +17631,7 @@ PrefabInstance:
     - target: {fileID: 8015287686025157147, guid: dc876c5138bd57540b4520609c945d39,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.36
+      value: 2.807
       objectReference: {fileID: 0}
     - target: {fileID: 8015287686025157147, guid: dc876c5138bd57540b4520609c945d39,
         type: 3}
@@ -28302,11 +28302,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1511244989}
     m_Modifications:
-    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
-        type: 3}
-      propertyPath: m_Name
-      value: 4x4 Plane Variant (2)
-      objectReference: {fileID: 0}
     - target: {fileID: 8686185450458740049, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -28371,6 +28366,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.99999976
+      objectReference: {fileID: 0}
+    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
+        type: 3}
+      propertyPath: m_Name
+      value: 4x4 Plane Variant (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08f244f63e6c90d4ea0fb07f2c3c590c, type: 3}
@@ -45256,11 +45256,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 216816841}
     m_Modifications:
-    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
-        type: 3}
-      propertyPath: m_Name
-      value: 4x4 Plane Variant (2)
-      objectReference: {fileID: 0}
     - target: {fileID: 8686185450458740049, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -45315,6 +45310,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
+        type: 3}
+      propertyPath: m_Name
+      value: 4x4 Plane Variant (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08f244f63e6c90d4ea0fb07f2c3c590c, type: 3}
@@ -45727,11 +45727,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1511244989}
     m_Modifications:
-    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
-        type: 3}
-      propertyPath: m_Name
-      value: 4x4 Plane Variant
-      objectReference: {fileID: 0}
     - target: {fileID: 8686185450458740049, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -45786,6 +45781,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8686185450458966385, guid: 08f244f63e6c90d4ea0fb07f2c3c590c,
+        type: 3}
+      propertyPath: m_Name
+      value: 4x4 Plane Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08f244f63e6c90d4ea0fb07f2c3c590c, type: 3}
