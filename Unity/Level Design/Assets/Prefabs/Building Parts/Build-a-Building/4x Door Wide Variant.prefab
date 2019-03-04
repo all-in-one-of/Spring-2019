@@ -13,19 +13,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.5, y: 4, z: 0.1}
   m_Center: {x: -1.75, y: 2, z: 0}
---- !u!65 &6363119095726957716
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1814565383441577014}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.5, y: 4, z: 0.1}
-  m_Center: {x: 1.75, y: 2, z: 0}
 --- !u!65 &5553329586187919035
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39,6 +26,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 3, y: 1, z: 0.1}
   m_Center: {x: 0, y: 3.5, z: 0}
+--- !u!65 &6363119095726957716
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1814565383441577014}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.5, y: 4, z: 0.1}
+  m_Center: {x: 1.75, y: 2, z: 0}
 --- !u!1001 &1814565383441543830
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49,6 +49,18 @@ PrefabInstance:
     - target: {fileID: 100000, guid: a588648dd48f5b54484af84dc980b417, type: 3}
       propertyPath: m_Name
       value: 4x Door Wide Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a588648dd48f5b54484af84dc980b417, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: a588648dd48f5b54484af84dc980b417, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: a588648dd48f5b54484af84dc980b417, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a588648dd48f5b54484af84dc980b417, type: 3}
       propertyPath: m_LocalPosition.x
@@ -94,14 +106,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2300002, guid: a588648dd48f5b54484af84dc980b417, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 937d8527bf07ca34d8478cc3adc04bd5, type: 2}
     - target: {fileID: 2300000, guid: a588648dd48f5b54484af84dc980b417, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: dbe891bd09ce53a41ad5639cd02990e0, type: 2}
+    - target: {fileID: 2300002, guid: a588648dd48f5b54484af84dc980b417, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 937d8527bf07ca34d8478cc3adc04bd5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a588648dd48f5b54484af84dc980b417, type: 3}
 --- !u!1 &1814565383441577014 stripped
