@@ -138,11 +138,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3f8bc214a884ec4f85bb10f9abe979d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  requiredForce: 5
+  requiredForce: 2
   sounds:
   - {fileID: 8300000, guid: a01b82f1da429b841b8886ee4944362c, type: 3}
   - {fileID: 8300000, guid: e6f7ab286f93b5e4e99b85e543a8326c, type: 3}
   - {fileID: 8300000, guid: a404d1463a8ada5499a2b11e7fea3ad0, type: 3}
+  source: {fileID: 4857081950799007812}
 --- !u!114 &3209938980129398764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -155,6 +156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45d5eab29326e6746b925a761b4c8959, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  grabbedLayer: 10
 --- !u!1001 &3654573265519442572
 PrefabInstance:
   m_ObjectHideFlags: 0

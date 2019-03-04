@@ -7,7 +7,7 @@ public class PlaySoundOnImpact : MonoBehaviour
     public float requiredForce = 10;
     public List<AudioClip> sounds;
 
-    private AudioSource source;
+    public AudioSource source;
 
     private void Start()
     {

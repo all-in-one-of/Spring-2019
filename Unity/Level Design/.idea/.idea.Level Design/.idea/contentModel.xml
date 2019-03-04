@@ -98,6 +98,7 @@
           </e>
         </e>
         <e p="OnTriggerEvent.cs" t="Include" />
+        <e p="PlaySound.cs" t="Include" />
         <e p="PlaySoundOnImpact.cs" t="Include" />
         <e p="QuickOutline" t="Include">
           <e p="Readme.txt" t="Include" />
