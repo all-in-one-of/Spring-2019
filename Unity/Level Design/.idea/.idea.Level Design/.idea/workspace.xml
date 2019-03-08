@@ -53,29 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddForceImpulse.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/AddForceImpulse.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OnTriggerEvent.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/OnTriggerEvent.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlaySoundOnImpact.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PlaySoundOnImpact.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/PlaySoundOnImpact.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="330">
+              <caret line="24" column="54" lean-forward="true" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+              <folding>
+                <marker date="1552070184045" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552070184045" expanded="true" signature="126:792" ph="{...}" />
+                <marker date="1552070184045" expanded="true" signature="258:368" ph="{...}" />
+                <marker date="1552070184045" expanded="true" signature="292:362" ph="{...}" />
+                <marker date="1552070184045" expanded="true" signature="420:604" ph="{...}" />
+                <marker date="1552070184045" expanded="true" signature="489:589" ph="{...}" />
+                <marker date="1552070184045" expanded="true" signature="633:790" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FPSInteract.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FPSInteract.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FPSInteract.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="915">
@@ -122,6 +113,64 @@
                 <marker date="1550447276252" expanded="true" signature="3063:3131" ph="{...}" />
                 <marker date="1550447276252" expanded="true" signature="3236:3314" ph="{...}" />
                 <marker date="1550447276252" expanded="true" signature="3351:3413" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlaySound.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PlaySound.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1551719093114" expanded="false" signature="6:78" ph="..." />
+                <marker date="1551719093114" expanded="true" signature="118:292" ph="{...}" />
+                <marker date="1551719093114" expanded="true" signature="190:211" ph="{...}" />
+                <marker date="1551719093114" expanded="true" signature="269:290" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstPersonController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="22" column="50" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="50" />
+              <folding>
+                <marker date="1550637551545" expanded="false" signature="6:148" ph="..." />
+                <marker date="1550637551545" expanded="true" signature="202:9547" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="357:9545" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="2199:2707" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="2782:3520" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="2922:3024" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="3100:3289" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="3378:3440" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="3562:3706" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="3743:5237" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="4577:4881" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="4673:4867" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="4898:5012" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="5276:5376" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="5430:5943" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="5543:5745" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="5791:5843" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="5986:6575" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="6047:6099" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="6112:6208" ph="/* pick &amp; play a random footstep sound from the array, ... */" />
+                <marker date="1550637551545" expanded="true" signature="6632:7554" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="6712:6764" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="6862:7276" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="7293:7478" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="7603:8870" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="7871:8018" ph="/* On standalone builds, walk/run speed is modified by a key press. ... */" />
+                <marker date="1550637551545" expanded="true" signature="8374:8439" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="8453:8589" ph="/* handle speed change to give an fov kick ... */" />
+                <marker date="1550637551545" expanded="true" signature="8699:8860" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="8906:8996" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="9070:9539" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="9270:9322" ph="{...}" />
+                <marker date="1550637551545" expanded="true" signature="9373:9425" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -184,6 +233,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Toon.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FPSAddItem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Quest/QuestManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlaySound.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FollowObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OutlineOnLook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FPSGameEvent.cs" root0="SKIP_HIGHLIGHTING" />
@@ -225,8 +275,8 @@
         <option value="$PROJECT_DIR$/Assets/FadeIn.cs" />
         <option value="$PROJECT_DIR$/Assets/UIFade.cs" />
         <option value="$PROJECT_DIR$/Assets/FPSPickup.cs" />
-        <option value="$PROJECT_DIR$/Assets/PlaySoundOnImpact.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlaySoundOnImpact.cs" />
       </list>
     </option>
   </component>
@@ -313,12 +363,12 @@
       <workItem from="1550799859062" duration="629000" />
       <workItem from="1551120364089" duration="4950000" />
       <workItem from="1551669545340" duration="1164000" />
-      <workItem from="1551727016054" duration="886000" />
+      <workItem from="1551727016054" duration="2071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44616000" />
+    <option name="totallyTimeSpent" value="45801000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -590,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="82" column="68" selection-start-line="82" selection-start-column="68" selection-end-line="82" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/FollowObj.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -636,14 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PlaySound.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/PlaySoundOnImpact.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -722,6 +757,76 @@
             <marker date="1550447276252" expanded="true" signature="3063:3131" ph="{...}" />
             <marker date="1550447276252" expanded="true" signature="3236:3314" ph="{...}" />
             <marker date="1550447276252" expanded="true" signature="3351:3413" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PlaySound.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1551719093114" expanded="false" signature="6:78" ph="..." />
+            <marker date="1551719093114" expanded="true" signature="118:292" ph="{...}" />
+            <marker date="1551719093114" expanded="true" signature="190:211" ph="{...}" />
+            <marker date="1551719093114" expanded="true" signature="269:290" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <marker date="1550637551545" expanded="false" signature="6:148" ph="..." />
+            <marker date="1550637551545" expanded="true" signature="202:9547" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="357:9545" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="2199:2707" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="2782:3520" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="2922:3024" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="3100:3289" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="3378:3440" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="3562:3706" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="3743:5237" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="4577:4881" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="4673:4867" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="4898:5012" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="5276:5376" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="5430:5943" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="5543:5745" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="5791:5843" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="5986:6575" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="6047:6099" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="6112:6208" ph="/* pick &amp; play a random footstep sound from the array, ... */" />
+            <marker date="1550637551545" expanded="true" signature="6632:7554" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="6712:6764" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="6862:7276" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="7293:7478" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="7603:8870" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="7871:8018" ph="/* On standalone builds, walk/run speed is modified by a key press. ... */" />
+            <marker date="1550637551545" expanded="true" signature="8374:8439" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="8453:8589" ph="/* handle speed change to give an fov kick ... */" />
+            <marker date="1550637551545" expanded="true" signature="8699:8860" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="8906:8996" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="9070:9539" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="9270:9322" ph="{...}" />
+            <marker date="1550637551545" expanded="true" signature="9373:9425" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PlaySoundOnImpact.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="54" lean-forward="true" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+          <folding>
+            <marker date="1552070184045" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552070184045" expanded="true" signature="126:792" ph="{...}" />
+            <marker date="1552070184045" expanded="true" signature="258:368" ph="{...}" />
+            <marker date="1552070184045" expanded="true" signature="292:362" ph="{...}" />
+            <marker date="1552070184045" expanded="true" signature="420:604" ph="{...}" />
+            <marker date="1552070184045" expanded="true" signature="489:589" ph="{...}" />
+            <marker date="1552070184045" expanded="true" signature="633:790" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -7,20 +7,25 @@ ModelImporter:
     100002: latch
     100004: lock
     100006: //RootNode
+    100008: post_part
     400000: gate_part
     400002: latch
     400004: lock
     400006: //RootNode
+    400008: post_part
     2100000: lambert1
     2300000: gate_part
     2300002: latch
     2300004: lock
+    2300006: post_part
     3300000: gate_part
     3300002: latch
     3300004: lock
+    3300006: post_part
     4300000: gate_part
     4300002: lock
     4300004: latch
+    4300006: post_part
     7400000: lock open
     9500000: //RootNode
   externalObjects: {}

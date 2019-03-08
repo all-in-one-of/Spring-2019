@@ -4,12 +4,39 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: gate_part
+    100004: latch
+    100006: lock
+    100008: Metal_Gate_Post
+    100010: Metal_Gate_Post_Lockpad
+    100012: post_part
     400000: //RootNode
+    400002: gate_part
+    400004: latch
+    400006: lock
+    400008: Metal_Gate_Post
+    400010: Metal_Gate_Post_Lockpad
+    400012: post_part
     2100000: lambert2
     2100002: lambert1
     2300000: //RootNode
+    2300002: gate_part
+    2300004: latch
+    2300006: lock
+    2300008: Metal_Gate_Post
+    2300010: Metal_Gate_Post_Lockpad
     3300000: //RootNode
+    3300002: gate_part
+    3300004: latch
+    3300006: lock
+    3300008: Metal_Gate_Post
+    3300010: Metal_Gate_Post_Lockpad
     4300000: post_part
+    4300002: Metal_Gate_Post
+    4300004: Metal_Gate_Post_Lockpad
+    4300006: gate_part
+    4300008: lock
+    4300010: latch
   externalObjects: {}
   materials:
     importMaterials: 0

@@ -22,14 +22,14 @@ public class PlaySoundOnImpact : MonoBehaviour
         if (other.relativeVelocity.magnitude >= requiredForce)
         {
             PlaySound();
-            print(other.relativeVelocity.magnitude);
+ //           print(other.relativeVelocity.magnitude);
         }
         
     }
 
     public void PlaySound()
     {
-        print("playing sound");
+//        print("playing sound");
         int index = Random.Range(0, sounds.Count);
         source.clip = sounds[index];
         source.Play();
