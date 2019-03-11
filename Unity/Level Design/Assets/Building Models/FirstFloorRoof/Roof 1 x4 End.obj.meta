@@ -7,22 +7,37 @@ ModelImporter:
     100002: roofBits
     100004: wallBits
     100006: woodBits
+    100008: roof
+    100010: wall
+    100012: wood
     400000: //RootNode
     400002: roofBits
     400004: wallBits
     400006: woodBits
+    400008: roof
+    400010: wall
+    400012: wood
     2100000: roofBitsMat
     2100002: wallBitsMat
     2100004: woodBitsMat
     2300000: roofBits
     2300002: wallBits
     2300004: woodBits
+    2300006: roof
+    2300008: wall
+    2300010: wood
     3300000: roofBits
     3300002: wallBits
     3300004: woodBits
+    3300006: roof
+    3300008: wall
+    3300010: wood
     4300000: roofBits
     4300002: wallBits
     4300004: woodBits
+    4300006: roof
+    4300008: wall
+    4300010: wood
   externalObjects: {}
   materials:
     importMaterials: 0

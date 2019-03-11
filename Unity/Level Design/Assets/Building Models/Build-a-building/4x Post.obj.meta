@@ -5,12 +5,18 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: default
+    100004: post
     400000: //RootNode
     400002: default
+    400004: post
     2100000: defaultMat
+    2100002: postMat
     2300000: default
+    2300002: post
     3300000: default
+    3300002: post
     4300000: default
+    4300002: post
   externalObjects: {}
   materials:
     importMaterials: 1

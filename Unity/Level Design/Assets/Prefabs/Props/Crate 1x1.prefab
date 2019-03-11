@@ -138,7 +138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3f8bc214a884ec4f85bb10f9abe979d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  requiredForce: 2
+  requiredForce: 3
   sounds:
   - {fileID: 8300000, guid: a01b82f1da429b841b8886ee4944362c, type: 3}
   - {fileID: 8300000, guid: e6f7ab286f93b5e4e99b85e543a8326c, type: 3}

@@ -8,27 +8,33 @@ ModelImporter:
     100004: glass
     100006: wall
     100008: wood
+    100010: window
     400000: //RootNode
     400002: default
     400004: glass
     400006: wall
     400008: wood
+    400010: window
     2100000: defaultMat
     2100002: glassMat
     2100004: wallMat
     2100006: woodMat
+    2100008: windowMat
     2300000: default
     2300002: glass
     2300004: wall
     2300006: wood
+    2300008: window
     3300000: default
     3300002: glass
     3300004: wall
     3300006: wood
+    3300008: window
     4300000: default
     4300002: glass
     4300004: wall
     4300006: wood
+    4300008: window
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:

@@ -24,6 +24,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor 2 4x20 Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: f81e5047fef371846b8b09dd9f967706, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: f81e5047fef371846b8b09dd9f967706, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0
@@ -92,6 +96,18 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 937d8527bf07ca34d8478cc3adc04bd5, type: 2}
+    - target: {fileID: 100008, guid: f81e5047fef371846b8b09dd9f967706, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100010, guid: f81e5047fef371846b8b09dd9f967706, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 100012, guid: f81e5047fef371846b8b09dd9f967706, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f81e5047fef371846b8b09dd9f967706, type: 3}
 --- !u!1 &4372469323572174967 stripped
