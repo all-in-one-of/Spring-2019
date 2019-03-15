@@ -150,6 +150,9 @@
             <e p="QuestManager.cs" t="Include" />
           </e>
         </e>
+        <e p="Shaders" t="Include">
+          <e p="ForceField.shader" t="Include" />
+        </e>
         <e p="Standard Assets" t="Include">
           <e p="2D" t="Include">
             <e p="Scripts" t="Include">
