@@ -61,6 +61,21 @@
             </e>
           </e>
         </e>
+        <e p="Editor Default Resources" t="Include">
+          <e p="nu Assets" t="Include">
+            <e p="Shared" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Canvas.shader" t="Include" />
+                <e p="CanvasChannels.shader" t="Include" />
+                <e p="CanvasOpaque.shader" t="Include" />
+                <e p="CanvasSelection.shader" t="Include" />
+                <e p="CanvasUtil.cginc" t="Include" />
+                <e p="UnlitColorAlpha.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="EscapeMenu.cs" t="Include" />
         <e p="FollowObj.cs" t="Include" />
         <e p="FPSAddItem.cs" t="Include" />
         <e p="FPSGameEvent.cs" t="Include" />
@@ -97,6 +112,90 @@
             </e>
           </e>
         </e>
+        <e p="nu Assets" t="Include">
+          <e p="Easy Decal" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AdvancedBulletHoles.cs" t="Include" />
+                <e p="BasicBulletHoles.cs" t="Include" />
+                <e p="BezierUtil.cs" t="Include" />
+                <e p="InfoBubble.cs" t="Include" />
+                <e p="LineUtil.cs" t="Include" />
+                <e p="PathAgent.cs" t="Include" />
+                <e p="ProxyRegister.cs" t="Include" />
+                <e p="RuntimeDecalCombiner.cs" t="Include" />
+                <e p="Sinoid.cs" t="Include" />
+                <e p="SparksExecutioner.cs" t="Include" />
+              </e>
+              <e p="Unity SA" t="Include">
+                <e p="FP Character" t="Include">
+                  <e p="CurveCtrlBob.cs" t="Include" />
+                  <e p="FOVZoom.cs" t="Include" />
+                  <e p="FPCtrl.cs" t="Include" />
+                  <e p="LerpCtrlBob.cs" t="Include" />
+                  <e p="MLook.cs" t="Include" />
+                </e>
+                <e p="Patricles" t="Include">
+                  <e p="Shader" t="Include">
+                    <e p="PriorityParticleAdd.shader" t="Include" />
+                    <e p="PriorityParticleAddSoft.shader" t="Include" />
+                    <e p="PriorityParticleAlpha.shader" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="Readme.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="DSSDShaderGUI.cs" t="Include" />
+                <e p="EDStandardShaderGUI.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shader" t="Include">
+              <e p="EDMultiply.shader" t="Include" />
+              <e p="EDSandardVACutoff.shader" t="Include" />
+              <e p="EDStandardSpecular.shader" t="Include" />
+              <e p="EDStandardSpecularVACutoff.shader" t="Include" />
+              <e p="EDVertexAlpha.shader" t="Include" />
+              <e p="EDVertexAlphaN.shader" t="Include" />
+              <e p="Legacy" t="Include">
+                <e p="ED_AlphaBumpSpec.shader" t="Include" />
+                <e p="ED_AlphaEdgeBleed.shader" t="Include" />
+                <e p="ED_AlphaEdgeBleed_Mul.shader" t="Include" />
+                <e p="ED_AlphaSimple.shader" t="Include" />
+                <e p="ED_ReflBumpSpec.shader" t="Include" />
+                <e p="ED_ReflBumpSpec_Cut.shader" t="Include" />
+                <e p="ED_SoftUnlit.shader" t="Include" />
+              </e>
+              <e p="Particles" t="Include">
+                <e p="ParticleAddSoft.shader" t="Include" />
+                <e p="ParticleAlpha.shader" t="Include" />
+              </e>
+              <e p="SSD" t="Include">
+                <e p="Legacy" t="Include">
+                  <e p="DSSD.shader" t="Include" />
+                  <e p="DSSDSignatures.cginc" t="Include" />
+                  <e p="Masking" t="Include">
+                    <e p="MaskStdMetallic.shader" t="Include" />
+                    <e p="MaskStdMetallicCG.shader" t="Include" />
+                    <e p="MaskStdMetallicCG_DoubleSided.shader" t="Include" />
+                    <e p="MaskStdSpecular.shader" t="Include" />
+                    <e p="MaskStdSpecularCG.shader" t="Include" />
+                  </e>
+                  <e p="SSD-M.shader" t="Include" />
+                  <e p="SycoDSSD.cginc" t="Include" />
+                  <e p="SycoFSSD.cginc" t="Include" />
+                  <e p="SycoSSD.cginc" t="Include" />
+                  <e p="Util.cginc" t="Include" />
+                </e>
+              </e>
+              <e p="Unlit" t="Include">
+                <e p="EDAlpha.shader" t="Include" />
+                <e p="EDMultiply.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
         <e p="OnTriggerEvent.cs" t="Include" />
         <e p="PlaySound.cs" t="Include" />
         <e p="PlaySoundOnImpact.cs" t="Include" />
@@ -112,6 +211,7 @@
             <e p="Outline.cs" t="Include" />
           </e>
         </e>
+        <e p="QuitGame.cs" t="Include" />
         <e p="SampleScenes" t="Include">
           <e p="Menu" t="Include">
             <e p="Scripts" t="Include">
@@ -392,6 +492,31 @@
                 <e p="ReflectiveDiffuseSpecTransp.shader" t="Include" />
               </e>
             </e>
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
           </e>
         </e>
         <e p="Toon.shader" t="Include" />

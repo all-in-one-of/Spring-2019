@@ -43,6 +43,8 @@ public class FPSPickup : MonoBehaviour, IFPSInteract
             rb.drag = 5f;
             grabbed = true;
 
+            //Debug.Log("Joint Created");
+
             StartCoroutine(BreakIt());
         }
         else if(joint != null)
@@ -59,11 +61,12 @@ public class FPSPickup : MonoBehaviour, IFPSInteract
         gameObject.layer = startLayer;
         rb.drag = .2f;
         grabbed = false;
+        //Debug.Log("Joint Destroyed");
     }
 
     private IEnumerator BreakIt()
     {
-        yield return new WaitForEndOfFrame();
+        yield return null;
 //        print("started it!");
         
         yield return new WaitUntil(() => Input.GetButtonDown("Interact"));
