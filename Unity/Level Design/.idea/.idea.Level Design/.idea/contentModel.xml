@@ -211,7 +211,6 @@
             <e p="Outline.cs" t="Include" />
           </e>
         </e>
-        <e p="QuitGame.cs" t="Include" />
         <e p="SampleScenes" t="Include">
           <e p="Menu" t="Include">
             <e p="Scripts" t="Include">
@@ -231,6 +230,7 @@
             <e p="Skybox-Procedural.shader" t="Include" />
           </e>
         </e>
+        <e p="SceneManager.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="Dialog" t="Include">
             <e p="Dialog.cs" t="Include" />
@@ -246,6 +246,7 @@
           <e p="ItemPickup.cs" t="Include" />
           <e p="OutlineOnLook.cs" t="Include" />
           <e p="OutlineShader.shader" t="Include" />
+          <e p="PostProcessValue.cs" t="Include" />
           <e p="Quest" t="Include">
             <e p="QuestManager.cs" t="Include" />
           </e>
